@@ -7,5 +7,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>study-rpcframe</module>
+    <module>elasticjob</module>
+    <module>study-elasticjob</module>
   </modules>
 </project>
