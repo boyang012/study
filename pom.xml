@@ -9,6 +9,7 @@
     <module>study-rpcframe</module>
     <module>study-elasticjob</module>
     <module>study-elasticjob-two</module>
+    <module>study-redislock</module>
   </modules>
   	<parent>
 		<groupId>org.springframework.boot</groupId>
